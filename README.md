@@ -81,20 +81,6 @@ The app employs a **Content-Based Filtering Algorithm** that:
 
 ---
 
-## Author 👨‍💻
-
-**Usama Munawar** 📝
-*MPhil Researcher | Data Scientist | Streamlit Developer*
-
-Connect with me on social media:
-
-* [GitHub](https://github.com/UsamaMunawarr)
-* [LinkedIn](https://www.linkedin.com/in/abu--usama)
-* [YouTube](https://www.youtube.com/@CodeBaseStats)
-* [Twitter](https://twitter.com/Usama__Munawar)
-* [Facebook](https://www.facebook.com/profile.php?id=100005320726463)
-
----
 
 ## License 📜
 
