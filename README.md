@@ -69,7 +69,6 @@ The app employs a **Content-Based Filtering Algorithm** that:
 * Provides details about the **developer** and links to connect on various social media platforms.
   ![Contact Screenshot](images/k3.PNG)
 
-* **About the Author:** Learn more about **Usama Munawar**, the creator of this app.
 
 * **Social Media Links:**
 
