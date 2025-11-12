@@ -8,6 +8,13 @@ Using **machine learning** and **content-based filtering**, the system recommend
 
 ---
 
+## 🎥 Demo
+
+Here’s a quick look at the system in action 👇
+
+![Demo](korean.gif)
+
+---
 ## Dataset Overview 🌟
 
 The recommender system uses a dataset of Korean dramas containing key information such as:
